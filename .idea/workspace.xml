@@ -2,305 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e2786a-af50-4ffb-9e0b-3ce3ae572ba3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/audio/audio.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fi/flaticon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fi/flaticon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fi/flaticon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont862f.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont862f.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont862f.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/Quotes_symbol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/fancybox_loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/fancybox_sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/parallax.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/parallax_pattern-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/parallax_pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/agsquare.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/brickwall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/bright_squares.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/debut_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/gplaypattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/light_wool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/pattern/subtle_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1170x580-img-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1920-1280-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1920-1280-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1920-1280-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/1920-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/210x220-img-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/250x150-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/250x150-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/250x150-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/260x290-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/260x290-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/260x290-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-10@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-11@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-12@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-13@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-14@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-17@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-18@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-19@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-20@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-21@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-5@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-6@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-7@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-8@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/270x200-img-9@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x189-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-5@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-6@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-7@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-8@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x270-img-9@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/370x280-img-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/480x480-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/480x480-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/480x480-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/480x480-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x380-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x380-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/570x420-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/60x60-img-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/65x65-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/65x65-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/65x65-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/65x65-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/70x70-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/70x70-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/70x70-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/75x75-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/83x83-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/83x83-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/870x426-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/870x426-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/870x426-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/870x460-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/870x460-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/94x94-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/H340-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/H340-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/H340-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/116x116-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/116x116-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/116x116-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/116x116-img-2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/116x116-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/116x116-img-3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-10@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-11@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-12@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-5@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-8@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/270x200-img-9@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/370x370-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/pic/shop/370x370-img-1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/assets/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/assets/gridtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/assets/gridtile_3x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/assets/gridtile_3x3_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/assets/gridtile_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/fonts/revicons/revicons90c6.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/fonts/revicons/revicons90c6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/fonts/revicons/revicons90c6.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_select.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vestaak_learn.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/blog-default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/blog-fullwidth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/blog-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/blog-three-columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/blog-two-columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/contact-us.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/content-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/courses-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/courses-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/courses-single-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/jquery.fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/event-calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/events-single-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fi/flaticon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fi/flaticon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont862f.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/svg/award.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/svg/book-with-apple.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/svg/patent-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/svg/people.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/svg/smartphone8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/svg/world-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/index-bg-video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/index-fullscreen.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/bg-video/cws_YT_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/bg-video/cws_self_vimeo_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/bg-video/jquery.vimeo.api.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jflickrfeed.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.fancybox-media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.fancybox.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.form.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.isotope.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.tweet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/retina.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-about-us.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-content-typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-double-sidebars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-full-width.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-left-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-our-staff.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-pricing-plans.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-right-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/page-sitemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-filtered.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-four-columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-one-column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-single-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-three-columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/portfolio-two-columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/css/closedhand.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/css/layers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/css/navigation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/css/openhand.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/fonts/revicons/revicons90c6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/js/jquery.themepunch.revolution.min838f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/js/jquery.themepunch.tools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/rs-plugin/js/jquery.themepunch.tools.min838f.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/shop-cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/shop-checkout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/shop-product-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/shop-single-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/shop-single-product.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_h.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/js/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/tuner/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/www.sample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_UltraLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_UltraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_UltraLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_UltraLight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_food.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_fronted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_multi_language.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_sports.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_web_devlopment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/unilearn.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/course-first-page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontiran.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/index-with-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vestaak_learn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -329,20 +86,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1934" />
-    <option name="height" value="1044" />
+    <option name="x" value="302" />
+    <option name="y" value="91" />
+    <option name="width" value="1367" />
+    <option name="height" value="874" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -358,8 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -367,13 +114,46 @@
               <option name="myItemId" value="vestaak_learn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -386,34 +166,46 @@
       <option name="presentableId" value="Default" />
       <updated>1488608076063</updated>
       <workItem from="1488608077264" duration="24000" />
+      <workItem from="1488609875334" duration="606000" />
     </task>
+    <task id="LOCAL-00001" summary="kimia first changes on main page">
+      <created>1488610398154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488610398154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24000" />
+    <option name="totallyTimeSpent" value="630000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1934" height="1044" extended-state="0" />
+    <frame x="302" y="91" width="1367" height="874" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36189747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977462" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.406993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -425,6 +217,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kimia first changes on main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="kimia first changes on main page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
