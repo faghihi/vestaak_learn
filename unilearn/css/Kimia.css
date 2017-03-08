@@ -186,13 +186,19 @@
     /*right: 0px !important;*/
     /*left: -100px !important;*/
 /*}*/
+
+.main-nav ul li ul {
+    margin-right: 1px;
+}
+
 /*.main-nav ul .home ul, #menu-i6tem-34 ul, #menu-item-38 ul, #menu-item-41 ul, #menu-item-46 ul{*/
     /*right: 0px !important;*/
     /*left: -100px !important;*/
-/*}*/
-main {
 
+.main-nav>ul>li>ul a:before {
+    padding-left: 5px;
 }
+
 /*.mian-nav ul .home a:before {*/
     /*display: none;*/
 /*}*/
@@ -243,3 +249,6 @@ address {
 /*.footer-about address a:before {*/
     /*content: none;*/
 /*}*/
+#demos {
+    padding: 0px;
+}
