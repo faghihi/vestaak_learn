@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e2786a-af50-4ffb-9e0b-3ce3ae572ba3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/docs.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/docs.theme.custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/courses-grid.html" afterPath="$PROJECT_DIR$/unilearn/courses-grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/Kimia.css" afterPath="$PROJECT_DIR$/unilearn/css/Kimia.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/owl.carousel.css" afterPath="$PROJECT_DIR$/unilearn/css/owl.carousel.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/index-with-search.html" afterPath="$PROJECT_DIR$/unilearn/index-with-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/js/jquery.min.js" afterPath="$PROJECT_DIR$/unilearn/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/unilearn/js/owl.carousel.min.js" />
     </list>
     <ignored path="vestaak_learn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,37 +26,27 @@
       <file leaf-file-name="index-with-search.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unilearn/index-with-search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="312" column="44" lean-forward="false" selection-start-line="312" selection-start-column="44" selection-end-line="312" selection-end-column="44" />
+            <state relative-caret-position="353">
+              <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1488982479023" expanded="false" signature="8920:8977" ph="..." />
-                <marker date="1488982479023" expanded="false" signature="10659:10716" ph="..." />
-                <marker date="1488982479023" expanded="false" signature="12410:12467" ph="..." />
+                <marker date="1488984549968" expanded="false" signature="8967:9024" ph="..." />
+                <marker date="1488984549968" expanded="false" signature="10706:10763" ph="..." />
+                <marker date="1488984549968" expanded="false" signature="12457:12514" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docs.theme.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unilearn/css/docs.theme.css">
+      <file leaf-file-name="owl.autoplay.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unilearn/js/owl.autoplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="1460" column="20" lean-forward="false" selection-start-line="1460" selection-start-column="14" selection-end-line="1460" selection-end-column="20" />
+            <state relative-caret-position="235">
+              <caret line="143" column="33" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="33" />
               <folding>
-                <element signature="e#88730#89055#2" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="docs.theme.custom.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unilearn/css/docs.theme.custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -71,8 +54,8 @@
       <file leaf-file-name="owl.carousel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unilearn/js/owl.carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="186" column="19" lean-forward="false" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="19" />
+            <state relative-caret-position="2588">
+              <caret line="414" column="5" lean-forward="false" selection-start-line="414" selection-start-column="5" selection-end-line="414" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -81,8 +64,8 @@
       <file leaf-file-name="owl.carousel.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unilearn/css/owl.carousel.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="149">
+              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -91,7 +74,7 @@
       <file leaf-file-name="courses-grid.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unilearn/courses-grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="5810">
               <caret line="448" column="30" lean-forward="false" selection-start-line="448" selection-start-column="20" selection-end-line="448" selection-end-column="30" />
               <folding>
                 <element signature="n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -117,8 +100,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unilearn/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="6870" column="21" lean-forward="false" selection-start-line="6870" selection-start-column="13" selection-end-line="6870" selection-end-column="21" />
+            <state relative-caret-position="1169">
+              <caret line="259" column="4" lean-forward="false" selection-start-line="259" selection-start-column="4" selection-end-line="259" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -128,9 +111,8 @@
         <entry file="file://$PROJECT_DIR$/unilearn/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="157">
-              <caret line="1634" column="22" lean-forward="false" selection-start-line="1634" selection-start-column="13" selection-end-line="1634" selection-end-column="22" />
+              <caret line="158" column="28" lean-forward="false" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="28" />
               <folding>
-                <element signature="n#!!block;n#add_button_menu#0" expanded="false" />
                 <element signature="n#!!block;n#create_double_nav#0" expanded="false" />
                 <marker date="1456991066000" expanded="true" signature="20545:20553" ph="..." />
                 <marker date="1456991066000" expanded="true" signature="20553:20561" ph="..." />
@@ -158,10 +140,7 @@
       <find>switch</find>
       <find>menu_bar</find>
       <find>items-visible</find>
-      <find>.main-nav</find>
       <find>main-nav</find>
-      <find>autoplay</find>
-      <find>.active</find>
       <find>owl.carouse</find>
       <find>.item</find>
       <find>item</find>
@@ -171,13 +150,21 @@
       <find>l .item</find>
       <find>auto</find>
       <find>owl-s</find>
-      <find>owl-stage</find>
       <find>width</find>
       <find>owl</find>
-      <find>jquery.min</find>
       <find>theme</find>
-      <find>active</find>
       <find>owl-item</find>
+      <find>.active</find>
+      <find>.main-nav</find>
+      <find>.main-nav&gt;ul</find>
+      <find>jquery.min</find>
+      <find>autoplay</find>
+      <find>stage</find>
+      <find>coordinate</find>
+      <find>speed</find>
+      <find>transition</find>
+      <find>owl-stage</find>
+      <find>active</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -193,9 +180,10 @@
         <option value="$PROJECT_DIR$/unilearn/css/docs.theme.css" />
         <option value="$PROJECT_DIR$/unilearn/css/owl.carousel.css" />
         <option value="$PROJECT_DIR$/unilearn/js/owl.carousel.js" />
-        <option value="$PROJECT_DIR$/unilearn/index-with-search.html" />
         <option value="$PROJECT_DIR$/unilearn/css/Kimia.css" />
         <option value="$PROJECT_DIR$/unilearn/css/docs.theme.custom.css" />
+        <option value="$PROJECT_DIR$/unilearn/index-with-search.html" />
+        <option value="$PROJECT_DIR$/unilearn/js/owl.autoplay.js" />
       </list>
     </option>
   </component>
@@ -361,7 +349,7 @@
       <updated>1488608076063</updated>
       <workItem from="1488608077264" duration="24000" />
       <workItem from="1488609875334" duration="606000" />
-      <workItem from="1488970440314" duration="12267000" />
+      <workItem from="1488970440314" duration="14956000" />
     </task>
     <task id="LOCAL-00001" summary="kimia first changes on main page">
       <created>1488610398154</created>
@@ -377,11 +365,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488970667079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="slider [still not moving! :( ]">
+      <created>1488983520354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1488983520354</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12897000" />
+    <option name="totallyTimeSpent" value="15586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="170" y="50" width="1376" height="858" extended-state="0" />
@@ -423,7 +418,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kimia first changes on main page" />
     <MESSAGE value="index search bar, index catagory&#10;rtl, footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="index search bar, index catagory&#10;rtl, footer" />
+    <MESSAGE value="slider [still not moving! :( ]" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider [still not moving! :( ]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -432,30 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/unilearn/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="1634" column="22" lean-forward="false" selection-start-line="1634" selection-start-column="13" selection-end-line="1634" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!block;n#add_button_menu#0" expanded="false" />
-            <element signature="n#!!block;n#create_double_nav#0" expanded="false" />
-            <marker date="1456991066000" expanded="true" signature="20545:20553" ph="..." />
-            <marker date="1456991066000" expanded="true" signature="20553:20561" ph="..." />
-            <marker date="1456991066000" expanded="true" signature="20561:20569" ph="..." />
-            <marker date="1456991066000" expanded="true" signature="20569:20577" ph="..." />
-            <marker date="1456991066000" expanded="true" signature="20577:20585" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unilearn/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="6870" column="21" lean-forward="false" selection-start-line="6870" selection-start-column="13" selection-end-line="6870" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unilearn/page-pricing-plans.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3620">
@@ -472,20 +444,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unilearn/courses-grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="448" column="30" lean-forward="false" selection-start-line="448" selection-start-column="20" selection-end-line="448" selection-end-column="30" />
-          <folding>
-            <element signature="n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -512,33 +470,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unilearn/css/owl.carousel.css">
+    <entry file="file://$PROJECT_DIR$/unilearn/css/docs.theme.custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unilearn/js/owl.carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="186" column="19" lean-forward="false" selection-start-line="186" selection-start-column="14" selection-end-line="186" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unilearn/index-with-search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="312" column="44" lean-forward="false" selection-start-line="312" selection-start-column="44" selection-end-line="312" selection-end-column="44" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1488982479023" expanded="false" signature="8920:8977" ph="..." />
-            <marker date="1488982479023" expanded="false" signature="10659:10716" ph="..." />
-            <marker date="1488982479023" expanded="false" signature="12410:12467" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,11 +486,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unilearn/css/docs.theme.custom.css">
+    <entry file="file://$PROJECT_DIR$/unilearn/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="1169">
+          <caret line="259" column="4" lean-forward="false" selection-start-line="259" selection-start-column="4" selection-end-line="259" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="158" column="28" lean-forward="false" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!block;n#create_double_nav#0" expanded="false" />
+            <marker date="1456991066000" expanded="true" signature="20545:20553" ph="..." />
+            <marker date="1456991066000" expanded="true" signature="20553:20561" ph="..." />
+            <marker date="1456991066000" expanded="true" signature="20561:20569" ph="..." />
+            <marker date="1456991066000" expanded="true" signature="20569:20577" ph="..." />
+            <marker date="1456991066000" expanded="true" signature="20577:20585" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/index-with-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1488984549968" expanded="false" signature="8967:9024" ph="..." />
+            <marker date="1488984549968" expanded="false" signature="10706:10763" ph="..." />
+            <marker date="1488984549968" expanded="false" signature="12457:12514" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/courses-grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5810">
+          <caret line="448" column="30" lean-forward="false" selection-start-line="448" selection-start-column="20" selection-end-line="448" selection-end-column="30" />
+          <folding>
+            <element signature="n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/css/owl.carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/js/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2588">
+          <caret line="414" column="5" lean-forward="false" selection-start-line="414" selection-start-column="5" selection-end-line="414" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/js/owl.autoplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="143" column="33" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
