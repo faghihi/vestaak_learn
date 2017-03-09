@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7e2786a-af50-4ffb-9e0b-3ce3ae572ba3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/eot/IRANSansWeb_UltraLight.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/ttf/IRANSansWeb_UltraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff/IRANSansWeb_UltraLight.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/woff2/IRANSansWeb_UltraLight.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_food.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_fronted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_multi_language.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_sports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_web_devlopment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/unilearn.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/course-first-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-filled.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/flexslider-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/fontiran.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/index-with-search.html" />
+    <list default="true" id="e7e2786a-af50-4ffb-9e0b-3ce3ae572ba3" name="Default" comment="kimia first changes on main page">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_food_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_sports_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_web_devlopment_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/Kimia.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/fontiran.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/slick.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/css/colorpicker.css" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/css/colorpicker.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/css/styles.css" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/css/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_background.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hex.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hex.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_b.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hsb_b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_h.html" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hsb_h.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_s.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hsb_s.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_indic.gif" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_indic.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_overlay.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_overlay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_b.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_rgb_b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_g.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_rgb_g.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_r.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_rgb_r.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_select.gif" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_select.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_submit.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_submit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/js/colorpicker.js" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/js/colorpicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/js/scripts.js" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/courses-grid.html" afterPath="$PROJECT_DIR$/unilearn/courses-grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/courses-list.html" afterPath="$PROJECT_DIR$/unilearn/courses-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/font-awesome.css" afterPath="$PROJECT_DIR$/unilearn/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/main.css" afterPath="$PROJECT_DIR$/unilearn/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/index-with-search.html" afterPath="$PROJECT_DIR$/unilearn/index-with-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/index.html" afterPath="$PROJECT_DIR$/unilearn/index.html" />
     </list>
     <ignored path="vestaak_learn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,10 +66,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="91" />
-    <option name="width" value="1367" />
-    <option name="height" value="874" />
+    <option name="x" value="268" />
+    <option name="y" value="74" />
+    <option name="width" value="1376" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -107,6 +87,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,28 +105,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vestaak_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vestaak_learn" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unilearn" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,6 +129,7 @@
       <updated>1488608076063</updated>
       <workItem from="1488608077264" duration="24000" />
       <workItem from="1488609875334" duration="606000" />
+      <workItem from="1488970440314" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="kimia first changes on main page">
       <created>1488610398154</created>
@@ -179,29 +142,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="630000" />
+    <option name="totallyTimeSpent" value="706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="91" width="1367" height="874" extended-state="0" />
+    <frame x="268" y="74" width="1376" height="858" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36189747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36778116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.406993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
