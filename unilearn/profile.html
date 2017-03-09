@@ -7,6 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <!-- style -->
+
     <link rel="shortcut icon" href="img/favicon.png">
     <link rel="stylesheet" href="css/font-awesome.css">
     <link rel="stylesheet" href="css/main.css">
@@ -14,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="tuner/css/styles.css" />
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" />
     <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="css/Profile.css">
     <!--styles -->
 </head>
 <body class="">
@@ -169,23 +171,47 @@
             <img src="pic/260x290-img-2.jpg" data-at2x="pic/260x290-img-2@2x.jpg" class="border-img img-float-left" alt>
             <h2> name & family </h2>
 
-            <!-- widget follow -->
-            <aside class="widget-subscribe">
-                <h2>Follow &amp; Subscribe</h2>
-                <hr class="divider-big margin-bottom">
-                <div><a href="#" class="fa fa-twitter"></a><a href="#" class="fa fa-skype"></a><a href="#" class="fa fa-google-plus"></a><a href="#" class="fa fa-rss"></a><a href="#" class="fa fa-youtube"></a></div>
-            </aside>
-            <!-- / widget follow -->
+                    <!-- types input -->
+            <section>
+                <div class="grid-col-row clear-fix">
+                    <div class="grid-col grid-col-8">
+                            <div class="columns-col columns-col-4">
+                                <form class="form-group">
+                                    <p class="profile-inpute-tag">
+                                        <input class="p" type="text" value="Enter your tag">
+                                        <button type="button" name="calc_shipping" value="1" class="cws-button border-radius alt small">enter</button>
+                                    </p>
+                                </form>
+                                <br>
+                                <!-- info box -->
+                                <div class="profile-info-box info-boxes error-message">
+                                    <div class="info-box-icon smaller"><i class="fa fa-times"></i></div>
+                                    tags
+                                    <div class="close-button"></div>
+                                </div>
+                                <div class="profile-info-box info-boxes error-message">
+                                    <div class="info-box-icon smaller"><i class="fa fa-times"></i></div>
+                                    tags
+                                    <div class="close-button"></div>
+                                </div>
+                                <!--/info box -->
+                            </div>
+                        </div>
+                    </div>
+
+            </section>
+                    <!-- / types input -->
+
         </div>
         <div class="grid-col grid-col-9">
             <main>
                 <section class="clear-fix">
                     <!-- tabs -->
-                    <div class="tabs">
-                        <div class="block-tabs-btn clear-fix">
-                            <div class="tabs-btn active" data-tabs-id="tabs1">Documents</div>
-                            <div class="tabs-btn" data-tabs-id="tabs2">Messages</div>
-                            <div class="tabs-btn" data-tabs-id="tabs3">contact us</div>
+                    <div  class="tabs">
+                        <div id="profile-tabs" class="block-tabs-btn clear-fix">
+                            <div class="profile-tabs-face tabs-btn active" id="tab1" data-tabs-id="tabs1" style="height: 70px"> <i class="fa fa-file fa-2x" aria-hidden="true"></i><br> <small>Documents</small></div>
+                            <div class="profile-tabs-face tabs-btn" id="tab2" data-tabs-id="tabs2"> <i class="fa fa-comment fa-2x" aria-hidden="true"></i> <br> Messages</div>
+                            <div class="profile-tabs-face tabs-btn" id="tab3" data-tabs-id="tabs3"> <i class="fa fa-mobile fa-3x" aria-hidden="true"></i> <br> contact us</div>
                         </div>
                         <!-- tabs keeper -->
                         <div class="tabs-keeper">
@@ -193,24 +219,32 @@
                             <div class="container-tabs active" data-tabs-id="cont-tabs1">
 
                                 Mollis vitae justo. Nunc porttitor purus nec malesuada hendrerit. Cras porta dictum condimentum. Nulla magna erat, facilisis non velit eu, suscipit bibendum quam. Phasellus sit amet viverra neque.<br />
-                                Suscipit ornare, augue mauris varius elit, vitae aliquam elit est vitae tellus. Nulla pellentesque elit ut magna pulvinar commodo. Proin dignissim metus et molestie interdum. Duis sed diam ipsum. Quisque</div>
+                                Suscipit ornare, augue mauris varius elit, vitae aliquam elit est vitae tellus. Nulla pellentesque elit ut magna pulvinar commodo. Proin dignissim metus et molestie interdum. Duis sed diam ipsum. Quisque
+                            </div>
                             <!--/tabs container -->
                             <!-- tabs container -->
                             <div class="container-tabs" data-tabs-id="cont-tabs2">
-                                <img src="pic/75x75-img-1.jpg" data-at2x="pic/370x270-img-4@2x.jpg" alt>
-                                neque euismod, vel luctus nulla tincidunt. Praesent ut dui sit amet ipsum scelerisque rhoncus. Vivamus eu porttitor lectus. Nullam varius lacinia congue. Donec ac dapibus elit. Proin facilisis nulla in est mattis, ut dapibus justo euismod. Proin sollicitudin a mi vel fermentum.
-                                <div class="grid-buttons columns-col columns-col-6">
-                                    <a href="#" class="cws-button border-radius alt smaller">read more</a>
-                                    <a href="#" class="cws-button border-radius alt smaller">seen</a>
-                                </div>
-                                <br>
 
+                                    <img src="pic/75x75-img-1.jpg" data-at2x="pic/370x270-img-4@2x.jpg" alt>
+                                    neque euismod, vel luctus nulla tincidunt. Praesent ut dui sit amet ipsum scelerisque rhoncus. Vivamus eu porttitor lectus.
+                                    Nullam varius lacinia congue. Donec ac dapibus elit. Proin facilisis nulla in est mattis, ut dapibus justo euismod.
+                                    Proin sollicitudin a mivel fermentum.
+                                <br>
+                                <ol class="pf-btn">
+                                    <li><a href="#" class="cws-button border-radius alt smaller">read more</a></li>
+                                    <li><a href="#" class="cws-button border-radius alt smaller">seen</a></li>
+                                </ol>
+
+                                <br><br>
                                 <img src="pic/75x75-img-1.jpg" data-at2x="pic/370x270-img-4@2x.jpg" alt>
-                                neque euismod, vel luctus nulla tincidunt. Praesent ut dui sit amet ipsum scelerisque rhoncus. Vivamus eu porttitor lectus. Nullam varius lacinia congue. Donec ac dapibus elit. Proin facilisis nulla in est mattis, ut dapibus justo euismod. Proin sollicitudin a mi vel fermentum.
-                                <div class="grid-buttons columns-col columns-col-6">
-                                    <a href="#" class="cws-button border-radius alt smaller">read more</a>
-                                    <a href="#" class="cws-button border-radius alt smaller">seen</a>
-                                </div>
+                                neque euismod, vel luctus nulla tincidunt. Praesent ut dui sit amet ipsum scelerisque rhoncus. Vivamus eu porttitor lectus.
+                                Nullam varius lacinia congue. Donec ac dapibus elit. Proin facilisis nulla in est mattis, ut dapibus justo euismod.
+                                Proin sollicitudin a mivel fermentum.
+                                <br>
+                                <ol class="pf-btn">
+                                    <li><a href="#" class="cws-button border-radius alt smaller">read more</a></li>
+                                    <li><a href="#" class="cws-button border-radius alt smaller">seen</a></li>
+                                </ol>
 
                             </div>
                             <!--/tabs container -->
@@ -347,11 +381,18 @@
                                             <a href="#">Learn More</a>
                                         </div>
                                         <div class="course-name clear-fix">
-                                            <span class="price">$75</span>
+                                            <span class="price"><strike>$75</strike> $65 </span>
                                             <h3><a href="#">Science In The New Era</a></h3>
                                         </div>
                                         <div class="course-date  bg-color-3 clear-fix">
                                             <div class="day"><i class="fa fa-calendar"></i>09 January</div><div class="time"><i class="fa fa-clock-o"></i>At 9:00 pm</div>
+                                            <div class="divider"></div>
+                                            <div class="package-subtitle">
+                                                <ol>
+                                                    <li> sub 1</li>
+                                                    <li> sub 2</li>
+                                                </ol>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -363,11 +404,18 @@
                                             <a href="#">Learn More</a>
                                         </div>
                                         <div class="course-name clear-fix">
-                                            <span class="price">$105</span>
+                                            <span class="price"><strike>$105 </strike> $75 </span>
                                             <h3><a href="#">Design Practice</a></h3>
                                         </div>
                                         <div class="course-date bg-color-1 clear-fix">
                                             <div class="day"><i class="fa fa-calendar"></i>11 January</div><div class="time"><i class="fa fa-clock-o"></i>At 11:00 pm</div>
+                                            <div class="divider"></div>
+                                            <div class="package-subtitle">
+                                                <ol>
+                                                    <li> sub 1</li>
+                                                    <li> sub 2</li>
+                                                </ol>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -379,11 +427,18 @@
                                             <a href="#">Learn More</a>
                                         </div>
                                         <div class="course-name clear-fix">
-                                            <span class="price">$45</span>
+                                            <span class="price"><strike>$45 </strike> $30 </span>
                                             <h3><a href="#">Design Practice</a></h3>
                                         </div>
                                         <div class="course-date bg-color-2 clear-fix">
                                             <div class="day"><i class="fa fa-calendar"></i>22 January</div><div class="time"><i class="fa fa-clock-o"></i>At 8:00 pm</div>
+                                            <div class="divider"></div>
+                                            <div class="package-subtitle">
+                                                <ol>
+                                                    <li> sub 1</li>
+                                                    <li> sub 2</li>
+                                                </ol>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
