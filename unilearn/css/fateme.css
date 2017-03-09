@@ -1,0 +1,72 @@
+
+div.clear-fix>div.grid-col-row>div.one{
+    clear: both;
+}
+.pricing-table ul li::after {
+    content: "√ ";
+    right: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 13px;
+    line-height: 39px;
+    transition: all 0.3s;
+
+}
+.pricing-table ul li::before{
+    display: none;
+    content: "√ ";
+    left: 20px;
+    font-size: 13px;
+    line-height: 39px;
+    transition: all 0.3s;
+}
+.pricing-table ul li {
+    padding-left: 40px;
+    border: 0;
+    text-align: right;
+}
+div.clear-fix>div.grid-col-row>div.red ul li::after{
+    color:red;
+}
+div.clear-fix>div.grid-col-row>div.orange ul li::after{
+    color:orange;
+}
+div.clear-fix>div.grid-col-row>div.green ul li::after{
+    color:green;
+}
+div.clear-fix>div.grid-col-row>div.blue ul li::after{
+    color:blue;
+}
+.widget-contact-form input[type='text'], .widget-contact-form textarea {
+    border: 1px solid #e1e1e1;
+    line-height: 36px;
+    padding: 0 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    font-style: italic;
+    direction: rtl;
+}
+/*.pricing-table .price-pt sup {*/
+    /*font-size: 22px;*/
+    /*vertical-align: text-top;*/
+    /*line-height: 1;*/
+    /*position: relative;*/
+    /*!*right: 20px;*!*/
+/*}*/
+/*article.pricing-table sup.first{*/
+    /*font-size:0.4em ;*/
+/*}*/
+/*article.pricing-table sup.last{*/
+   /*font-size:0.2em ;*/
+/*}*/
+/*.pricing-table .price-pt>p{*/
+    /*font-family: "IRANSans";*/
+    /*font-size: 77px;*/
+    /*line-height: 1.1;*/
+    /*padding-top: 18px;*/
+    /*font-weight: 700;*/
+.pricing-table .price-pt sup {
+    font-size: 0.25em;
+    vertical-align: middle;
+    line-height: 1;
+}
