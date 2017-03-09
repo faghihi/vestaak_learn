@@ -46,27 +46,12 @@ div.clear-fix>div.grid-col-row>div.blue ul li::after{
     font-style: italic;
     direction: rtl;
 }
-/*.pricing-table .price-pt sup {*/
-    /*font-size: 22px;*/
-    /*vertical-align: text-top;*/
-    /*line-height: 1;*/
-    /*position: relative;*/
-    /*!*right: 20px;*!*/
-/*}*/
-/*article.pricing-table sup.first{*/
-    /*font-size:0.4em ;*/
-/*}*/
-/*article.pricing-table sup.last{*/
-   /*font-size:0.2em ;*/
-/*}*/
-/*.pricing-table .price-pt>p{*/
-    /*font-family: "IRANSans";*/
-    /*font-size: 77px;*/
-    /*line-height: 1.1;*/
-    /*padding-top: 18px;*/
-    /*font-weight: 700;*/
+
 .pricing-table .price-pt sup {
     font-size: 0.25em;
     vertical-align: middle;
     line-height: 1;
+}
+div.page-content>div.grid-row>div.grid-col-row>div.grid-col{
+    float:right;
 }
