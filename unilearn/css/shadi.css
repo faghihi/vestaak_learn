@@ -5,14 +5,18 @@
 * {
     box-sizing: border-box;
 }
-
-.col-111 {width: 30%;}
-.col-112 {width: 30%;}
-.col-113 {width: 40%;}
+.row1{
+    width: 100%;
+    height: 100px;
+}
+.col-111 {width: 25%;}
+.col-112 {width: 25%;}
+.col-113 {width: 25%;}
+.col-114 {width: 25%;}
 [class*="col-"] {
     float: right;
     padding: 15px;
-   /* border: 1px solid red;*/
+    border: 1px solid red;
 }
 .cws-button.bt-color-4.border-radius.alt.large {
     padding: 19px 10px 19px 20px;
