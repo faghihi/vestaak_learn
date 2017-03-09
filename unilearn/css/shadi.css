@@ -10,9 +10,73 @@
 .col-112 {width: 30%;}
 .col-113 {width: 40%;}
 [class*="col-"] {
-    float: left;
+    float: right;
     padding: 15px;
-    border: 1px solid red;
+   /* border: 1px solid red;*/
+}
+.cws-button.bt-color-4.border-radius.alt.large {
+    padding: 19px 10px 19px 20px;
+    -ms-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+
+
+}
+.category-button {
+    display: block;
+
+    color: blueviolet;
+    font-size: large;
+    border: 0px solid ;
+
+    background-color: transparent;
+    padding: 19px 10px 19px 20px;
+    transition: 0.3s;
+    -ms-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    cursor: pointer;
+}
+.dollar{
+    float: left;
+}
+.page-teacher{
+    text-align: center;
+    width: 100%;
+
+}
+.margin-none{
+    margin: 0;
+}
+info-boxes.info-message {
+    background-color: #4bbcd7;
+}
+
+
+.page-teacher a{
+    display: block;
+    float: left;
+    width: 150px;
+    height: 150px;
+    /*
+    border: 1px solid #f2f2f2;
+    */
+    border-right: 50px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    line-height: 38px;
+    color: #333e4f;
+}
+.page-teacher a.active{
+    background-color: #f27c66;
+    color: #ffffff;
+    border-color: #f27c66;
+}
+.clear-fix:after {
+    content: '';
+    display: table;
+    clear: both;
 }
 .first{
     padding-top: 0 !important;
@@ -28,6 +92,12 @@ section{
     overflow: hidden;
     overflow-x: hidden;
     overflow-y: hidden;
+    font-size: 24px;
+    float: left;
+    width: 100%;
+    height: 200px;
+
+
 }
 .title{
     margin-bottom: 20px;
@@ -36,32 +106,15 @@ section{
 .nav{
     text-align: right;
     user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
 }
-.carousel-button .next{
-    -webkit-border-bottom-right-radius: 5px;
+h2 + .nav + * {
+    clear: both;
 }
-.carousel-button .prev,
-.carousel-button .next {
-    margin: 1px;
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    text-align: center;
-    line-height: 20px;
-    border: 1px solid #b0b0b0;
-    color: #b0b0b0;
-    cursor: pointer;
-    margin-bottom: 3px;
-    transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    -ms-transition: all 0.3s;
-    -webkit-transition: all 0.3s;
-
-}
-.carousel-button .prev:hover,
-.carousel-button .next:hover {
-    border-color: #969696;
-    color: #969696;
+.nav.align-left {
+    text-align: left;
 }
 
 .grid-col-9 {
@@ -70,17 +123,11 @@ section{
 * {box-sizing:border-box}
 .att{
     width: 100%;
-    height: 150px;
+    height: auto;
     background-color: pink;
 
 }
-.teacherstest
-{
-    width: 100%;
-    height: 150px;
-    background-color: pink;
 
-}
 
 .price{
     width: 100px;
@@ -123,9 +170,10 @@ section{
 .teacher {
     display: none;
 }
-.dollar:before {
-    content: '$';
-    font-size: somethingSmaller;
+
+.dollar:after {
+    content: 'ریال';
+    font-size: medium;
 }
 
 /**/

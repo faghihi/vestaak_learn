@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7e2786a-af50-4ffb-9e0b-3ce3ae572ba3" name="Default" comment="kimia first changes on main page">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/images/hero-header-slider/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_food_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_sports_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/img/i_web_devlopment_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/Kimia.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/css/fontiran.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unilearn/js/slick.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/css/colorpicker.css" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/css/colorpicker.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/css/styles.css" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/css/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_background.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_background.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hex.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hex.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_b.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hsb_b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_h.html" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hsb_h.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_hsb_s.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_hsb_s.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_indic.gif" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_indic.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_overlay.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_overlay.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_b.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_rgb_b.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_g.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_rgb_g.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_rgb_r.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_rgb_r.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_select.gif" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_select.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/images/colorpicker_submit.png" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/images/colorpicker_submit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/js/colorpicker.js" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/js/colorpicker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unilearn/tuner/js/scripts.js" afterPath="$PROJECT_DIR$/unilearn/tuner-must-be-deleted/js/scripts.js" />
+    <list default="true" id="e7e2786a-af50-4ffb-9e0b-3ce3ae572ba3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/courses-grid.html" afterPath="$PROJECT_DIR$/unilearn/courses-grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/courses-list.html" afterPath="$PROJECT_DIR$/unilearn/courses-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/font-awesome.css" afterPath="$PROJECT_DIR$/unilearn/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/main.css" afterPath="$PROJECT_DIR$/unilearn/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/index-with-search.html" afterPath="$PROJECT_DIR$/unilearn/index-with-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/index.html" afterPath="$PROJECT_DIR$/unilearn/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/courses-single-item.html" afterPath="$PROJECT_DIR$/unilearn/courses-single-item.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unilearn/css/shadi.css" afterPath="$PROJECT_DIR$/unilearn/css/shadi.css" />
     </list>
     <ignored path="vestaak_learn.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +23,122 @@
   <component name="FavoritesManager">
     <favorites_list name="vestaak_learn" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="page-our-staff.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/page-our-staff.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="321" column="12" selection-start-line="321" selection-start-column="12" selection-end-line="321" selection-end-column="12" />
+              <folding>
+                <element signature="n#section#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-elements.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/content-elements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="498" column="4" selection-start-line="490" selection-start-column="28" selection-end-line="498" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="owl.carousel.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/js/owl.carousel.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="9" column="10378" selection-start-line="9" selection-start-column="10378" selection-end-line="9" selection-end-column="10378" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+              <folding>
+                <marker date="1488613646894" expanded="true" signature="20545:20553" ph="..." />
+                <marker date="1488613646894" expanded="true" signature="20553:20561" ph="..." />
+                <marker date="1488613646894" expanded="true" signature="20561:20569" ph="..." />
+                <marker date="1488613646894" expanded="true" signature="20569:20577" ph="..." />
+                <marker date="1488613646894" expanded="true" signature="20577:20585" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shadi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/js/shadi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="courses-single-item.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unilearn/courses-single-item.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="245" column="57" selection-start-line="245" selection-start-column="57" selection-end-line="245" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#2;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#3;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#4;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#5;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#6;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ol#0;n#div#3;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ol#0;n#div#3;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shadi.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/css/shadi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unilearn/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="446" column="21" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unilearn/page-our-staff.html" />
+        <option value="$PROJECT_DIR$/unilearn/css/main.css" />
+        <option value="$PROJECT_DIR$/unilearn/css/shadi.css" />
+        <option value="$PROJECT_DIR$/unilearn/courses-single-item.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -66,12 +148,21 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="268" />
-    <option name="y" value="74" />
-    <option name="width" value="1376" />
-    <option name="height" value="858" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -87,10 +178,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="vestaak_learn" />
@@ -105,17 +200,179 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hero-header-slider" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fi" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="audio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vestaak_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unilearn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.courses-single-item.html">
+    <configuration default="false" name="courses-single-item.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vestaak_learn/unilearn/courses-single-item.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.courses-single-item.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.courses-single-item.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -130,6 +387,7 @@
       <workItem from="1488608077264" duration="24000" />
       <workItem from="1488609875334" duration="606000" />
       <workItem from="1488970440314" duration="76000" />
+      <workItem from="1489042968407" duration="20863000" />
     </task>
     <task id="LOCAL-00001" summary="kimia first changes on main page">
       <created>1488610398154</created>
@@ -138,33 +396,40 @@
       <option name="project" value="LOCAL" />
       <updated>1488610398154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="course page">
+      <created>1489050726612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489050726612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="706000" />
+    <option name="totallyTimeSpent" value="21569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="268" y="74" width="1376" height="858" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36778116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19106881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24132492" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,10 +448,105 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kimia first changes on main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="kimia first changes on main page" />
+    <MESSAGE value="course page" />
+    <option name="LAST_COMMIT_MESSAGE" value="course page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/unilearn/js/shadi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="9" column="10378" selection-start-line="9" selection-start-column="10378" selection-end-line="9" selection-end-column="10378" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/page-our-staff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="321" column="12" selection-start-line="321" selection-start-column="12" selection-end-line="321" selection-end-column="12" />
+          <folding>
+            <element signature="n#section#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+          <folding>
+            <marker date="1488613646894" expanded="true" signature="20545:20553" ph="..." />
+            <marker date="1488613646894" expanded="true" signature="20553:20561" ph="..." />
+            <marker date="1488613646894" expanded="true" signature="20561:20569" ph="..." />
+            <marker date="1488613646894" expanded="true" signature="20569:20577" ph="..." />
+            <marker date="1488613646894" expanded="true" signature="20577:20585" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/content-elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="498" column="4" selection-start-line="490" selection-start-column="28" selection-end-line="498" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="446" column="21" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/css/shadi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unilearn/courses-single-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="245" column="57" selection-start-line="245" selection-start-column="57" selection-end-line="245" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#3;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#4;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#5;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#6;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ol#0;n#div#3;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ol#0;n#div#3;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
