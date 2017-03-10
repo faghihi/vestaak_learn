@@ -171,20 +171,29 @@
             <img src="pic/260x290-img-2.jpg" data-at2x="pic/260x290-img-2@2x.jpg" class="border-img img-float-left" alt>
             <h2> name & family </h2>
 
-                    <!-- types input -->
             <section>
+                <!-- widget search -->
+                <aside class="widget-search">
+                    <form role="search" method="get" class="search-form" action="#">
+                        <label>
+                            <span class="screen-reader-text">tags: </span>
+                            <input type="search" class="search-field" placeholder="tags" value="" name="s" title="Search for:" list="datalist">
+                            <datalist id="datalist">
+                                <option> courses 1</option>
+                                <option> courses 2</option>
+                                <option> courses 3</option>
+                                <option> courses 4</option>
+                            </datalist>
+                        </label>
+                        <input type="submit" class="search-submit" value="OK">
+                    </form>
+                </aside>
+
                 <div class="grid-col-row clear-fix">
                     <div class="grid-col grid-col-8">
                             <div class="columns-col columns-col-4">
-                                <form class="form-group">
-                                    <p class="profile-inpute-tag">
-                                        <input class="p" type="text" value="Enter your tag">
-                                        <button type="button" name="calc_shipping" value="1" class="cws-button border-radius alt small">enter</button>
-                                    </p>
-                                </form>
-                                <br>
                                 <!-- info box -->
-                                <div class="profile-info-box info-boxes error-message">
+                                <div class="profile-info-box info-boxes error-message tag-radius">
                                     <div class="info-box-icon smaller"><i class="fa fa-times"></i></div>
                                     tags
                                     <div class="close-button"></div>
@@ -198,7 +207,6 @@
                             </div>
                         </div>
                     </div>
-
             </section>
                     <!-- / types input -->
 
@@ -209,7 +217,7 @@
                     <!-- tabs -->
                     <div  class="tabs">
                         <div id="profile-tabs" class="block-tabs-btn clear-fix">
-                            <div class="profile-tabs-face tabs-btn active" id="tab1" data-tabs-id="tabs1" style="height: 70px"> <i class="fa fa-file fa-2x" aria-hidden="true"></i><br> <small>Documents</small></div>
+                            <div class="profile-tabs-face tabs-btn active" id="tab1" data-tabs-id="tabs1"> <i class="fa fa-file fa-2x" aria-hidden="true"></i><br> <small>Documents</small></div>
                             <div class="profile-tabs-face tabs-btn" id="tab2" data-tabs-id="tabs2"> <i class="fa fa-comment fa-2x" aria-hidden="true"></i> <br> Messages</div>
                             <div class="profile-tabs-face tabs-btn" id="tab3" data-tabs-id="tabs3"> <i class="fa fa-mobile fa-3x" aria-hidden="true"></i> <br> contact us</div>
                         </div>
@@ -450,11 +458,18 @@
                                             <a href="#">Learn More</a>
                                         </div>
                                         <div class="course-name clear-fix">
-                                            <span class="price">$45</span>
+                                            <span class="price"> <strike>$75</strike> $45</span>
                                             <h3><a href="#">Science In The New Era</a></h3>
                                         </div>
                                         <div class="course-date bg-color-4 clear-fix">
                                             <div class="day"><i class="fa fa-calendar"></i>25 January</div><div class="time"><i class="fa fa-clock-o"></i>At 7:00 pm</div>
+                                            <div class="divider"></div>
+                                            <div class="package-subtitle">
+                                                <ol>
+                                                    <li> sub 1</li>
+                                                    <li> sub 2</li>
+                                                </ol>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -466,11 +481,18 @@
                                             <a href="#">Learn More</a>
                                         </div>
                                         <div class="course-name clear-fix">
-                                            <span class="price">$45</span>
+                                            <span class="price"> <strike>$75</strike> $45</span>
                                             <h3><a href="#">Design Practice</a></h3>
                                         </div>
                                         <div class="course-date bg-color-3 clear-fix">
                                             <div class="day"><i class="fa fa-calendar"></i>27 January</div><div class="time"><i class="fa fa-clock-o"></i>At 8:00 pm</div>
+                                            <div class="divider"></div>
+                                            <div class="package-subtitle">
+                                                <ol>
+                                                    <li> sub 1</li>
+                                                    <li> sub 2</li>
+                                                </ol>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
