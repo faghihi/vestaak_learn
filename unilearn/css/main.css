@@ -3220,7 +3220,7 @@ h2 + .carousel-nav + * {
 /**/
 .video-player {
 	position: relative;
-	widows: 100%;
+	windows: 100%;
 	padding-top: 59%;
 }
 .video-player iframe {
