@@ -13,6 +13,27 @@
 /*.carousel-container{
   float: right;
 }*/
+.tabs-box{
+    float: right;
+}
+.tabs-keeper{
+    float: right;
+}
+.block-tabs-btn{
+ float: right;
+    text-script: right;
+}
+.tabs{
+    float: right;
+    text-script: left;
+}
+.carousel-nav{
+    text-align: left;
+}
+.teachers{
+    text-align: left;
+    float: right;
+}
 /*Galley!*/
 /*star*/
 div.stars {
